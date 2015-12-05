@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Edge
+Comment=Flat style GTK+ theme for Edge
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=EvoPop
+MetacityTheme=EvoPop
+ButtonLayout=:minimize,maximize,close
